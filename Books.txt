@@ -1,0 +1,5 @@
+Bookname : SS
+Author : Shivam
+Publisher : Soni
+Price : 30000
+Stock : 10
